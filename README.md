@@ -10,5 +10,7 @@
  ___
 
 ![KatiaSonally's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KatiaSonally&theme=default&hide_border=false)
-![KatiaSonally's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KatiaSonally&theme=default&show_icons=true&hide_border=false&layout=compact)
+
 ___
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatiaSonally)](https://github.com/KatiaSonally/github-readme-stats)
