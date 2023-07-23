@@ -1,5 +1,5 @@
 # Kátia Sonally
-***Front End Developer***
+***Desenvolvedora Front End***
 
 <div style="display: inline_block"><br/>
   <img align ="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
@@ -14,3 +14,15 @@
 ___
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatiaSonally)](https://github.com/KatiaSonally/github-readme-stats)
+
+___
+
+Olá! Meu nome é Kátia e sou desenvolvedora front-end.
+
+Desde o final do ano passado estou me desafiando em busca de uma nova carreira, após 30 anos trabalhando nas áreas: financeiro e administrativo.
+
+Iniciei minha caminhada em programação participando do projeto Desenvolve, promovido pelo grupo O Boticário durante o primeiro semestre desse ano de 2023.
+
+Fazendo a trilha fullstack adquiri conhecimento geral em todas as áreas e percebi que esse é de fato o caminho que quero seguir. 
+
+Por isso continuo meus estudos de forma independente visando ampliar e consolidar meus conhecimentos.
