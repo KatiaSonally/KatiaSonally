@@ -10,16 +10,15 @@
 
 </div>
 
- ___
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatiaSonally)
+---
 
-___
+<div align="center">
+  <a href="https://github.com/KatiaSonally">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatiaSonally"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KatiaSonally&theme=default&hide_border=false"/>
+</div>
 
-
-![KatiaSonally's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KatiaSonally&theme=default&hide_border=false)
-
-___
+---
 
 Olá! Meu nome é Kátia e sou desenvolvedora front-end.
 
