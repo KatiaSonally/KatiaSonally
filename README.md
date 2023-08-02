@@ -1,4 +1,4 @@
-# Kátia Sonally
+# Kátia Sonally #
 ***Desenvolvedora Front End***
 
 <div style="display: inline_block"><br/>
@@ -11,12 +11,13 @@
 </div>
 
  ___
-
-![KatiaSonally's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KatiaSonally&theme=default&hide_border=false)
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatiaSonally)
 
 ___
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatiaSonally)
+
+![KatiaSonally's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KatiaSonally&theme=default&hide_border=false)
 
 ___
 
