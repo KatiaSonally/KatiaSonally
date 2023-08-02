@@ -19,8 +19,7 @@
 </div>
 
 ---
-
-Desde o final de 2022 estou me desafiando em busca de uma nova carreira!
+### Me desafiando em uma nova carreira! 🚀
 
 Iniciei meu aprendizado em programação participando do projeto Desenvolve, promovido pelo grupo O Boticário durante o primeiro semestre de 2023.
 
