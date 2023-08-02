@@ -20,7 +20,8 @@
 
 ---
 
-Olá! Meu nome é Kátia e sou desenvolvedora front-end.
+## Olá!👋🏽
+## Meu nome é Kátia e sou desenvolvedora front-end. 🚀 ##
 
 Desde o final do ano passado estou me desafiando em busca de uma nova carreira, após 30 anos trabalhando nas áreas: financeiro e administrativo.
 
