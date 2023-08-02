@@ -20,13 +20,10 @@
 
 ---
 
-## Olá!👋🏽
-## Meu nome é Kátia e sou desenvolvedora front-end. 🚀 ##
+Desde o final de 2022 estou me desafiando em busca de uma nova carreira!
 
-Desde o final do ano passado estou me desafiando em busca de uma nova carreira, após 30 anos trabalhando nas áreas: financeiro e administrativo.
+Iniciei meu aprendizado em programação participando do projeto Desenvolve, promovido pelo grupo O Boticário durante o primeiro semestre de 2023.
 
-Iniciei minha caminhada em programação participando do projeto Desenvolve, promovido pelo grupo O Boticário durante o primeiro semestre desse ano de 2023.
+Fazendo a trilha fullstack, adquiri conhecimento geral em todas as áreas e percebi que esse é de fato o caminho que quero seguir. 
 
-Fazendo a trilha fullstack adquiri conhecimento geral em todas as áreas e percebi que esse é de fato o caminho que quero seguir. 
-
-Por isso continuo meus estudos de forma independente visando ampliar e consolidar meus conhecimentos.
+Por isso continuo meus estudos de forma independente, visando ampliar e consolidar meus conhecimentos.
