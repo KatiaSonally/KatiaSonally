@@ -20,10 +20,19 @@
 </div>
 
 ---
-### Me desafiando em uma nova carreira! 🚀
+## Me desafiando em uma nova carreira! 🚀
 
 Iniciei meu aprendizado em programação participando do projeto Desenvolve, promovido pelo grupo O Boticário durante o primeiro semestre de 2023.
 
 Fazendo a trilha fullstack, adquiri conhecimento geral em todas as áreas e percebi que esse é de fato o caminho que quero seguir. 
 
 Por isso continuo meus estudos de forma independente, visando ampliar e consolidar meus conhecimentos.
+
+---
+### Contatos:
+
+📧 E-mail: katiasonally@yahoo.com.br
+
+💼 LinkedIn: https://www.linkedin.com/in/katia-sonally-evangelista-a2657744/
+
+
