@@ -28,11 +28,5 @@ Fazendo a trilha fullstack, adquiri conhecimento geral em todas as áreas e perc
 
 Por isso continuo meus estudos de forma independente, visando ampliar e consolidar meus conhecimentos.
 
----
-### Contatos:
-
-📧 E-mail: katiasonally@yahoo.com.br
-
-💼 LinkedIn: https://www.linkedin.com/in/katia-sonally-evangelista-a2657744/
 
 
