@@ -15,7 +15,7 @@
 
 <div align="center">
   <a href="https://github.com/KatiaSonally">
-  <img height="180em" src="https://github-readme-stats-katiasonally.vercel.app/api/top-langs/?username=KatiaSonally"/>
+  <img height="180em" src="https://github-readme-stats-jd1j-katiasonally.vercel.app/api/top-langs/?username=KatiaSonally"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KatiaSonally&theme=default&hide_border=false"/>
 </div>
 
